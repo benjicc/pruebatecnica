@@ -1,0 +1,8 @@
+com\pruebatecnica\prouduct_service\dto\ProductRequest.class
+com\pruebatecnica\prouduct_service\repository\ProductRepository.class
+com\pruebatecnica\prouduct_service\service\ProductService.class
+com\pruebatecnica\prouduct_service\model\Product.class
+com\pruebatecnica\prouduct_service\controller\ProductController.class
+com\pruebatecnica\prouduct_service\dto\AvailabilityResponse.class
+com\pruebatecnica\prouduct_service\config\WebSecurityConfig.class
+com\pruebatecnica\prouduct_service\ProuductServiceApplication.class
