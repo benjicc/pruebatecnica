@@ -1,0 +1,9 @@
+# Swagger/OpenAPI configuration for Spring Boot
+# Documentación automática para REST APIs
+
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui.html
